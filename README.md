@@ -3,7 +3,7 @@
 - I’m currently a third-year PhD candidate from Georgia Tech.
 - I am working on safety alignment for large language models. Particularly, I am interested in red-teaming attacks and defenses for LLMs.
 
-## Seleceted Publications
+## Selected Publications
 I try to push myself to publish high quality papers in the periodicity of every three months. Here are the papers I wrote in 2024. 
 
 - [2024/2/2] **Vaccine: Perturbation-aware alignment for large language model aginst harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.01109)] [[code](https://github.com/git-disl/Vaccine)] 
