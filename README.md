@@ -1,6 +1,6 @@
-## Hi there 👋 I am Tiansheng Huang from Georgia Tech
+## Hi there 👋 I am Tiansheng Huang
 
-- I’m currently a PhD candidate from Georgia Tech
+- I’m currently a third-year PhD candidate from Georgia Tech.
 - I am working on safety alignment for large language models. Particularly, I am interested in red-teaming attacks and defenses for LLMs.
 
 ## Seleceted Publications
