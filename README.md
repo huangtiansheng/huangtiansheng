@@ -7,7 +7,7 @@
 I try to push myself to publish high quality papers in the periodicity of every three months. 
 
 Here is the first paper I wrote in 2025 (maybe not only in 2025...)
-- [2025/1/30]  Virus: Harmful Fine-tuning Attack for Large Language Models bypassing Guardrail Moderation [[paper](https://arxiv.org/abs/2501.17433)] [[code](https://github.com/git-disl/Virus)] 
+- [2025/1/30]  **Virus: Harmful Fine-tuning Attack for Large Language Models bypassing Guardrail Moderation** *arXiv* [[paper](https://arxiv.org/abs/2501.17433)] [[code](https://github.com/git-disl/Virus)] 
 
 Here are the papers I wrote in 2024. 
 - [2024/9/26] **Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey** *arXiv* [[paper](https://arxiv.org/html/2409.18169v2)] [[repo](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers)]
