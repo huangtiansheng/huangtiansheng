@@ -6,6 +6,9 @@
 ## Selected Publications
 I try to push myself to publish high quality papers in the periodicity of every three months. 
 
+Here is the first paper I wrote in 2025 (maybe not only in 2025...)
+- [2025/1/30]  Virus: Harmful Fine-tuning Attack for Large Language Models bypassing Guardrail Moderation [[paper](https://arxiv.org/abs/2501.17433)] [[code](https://github.com/git-disl/Virus)] 
+
 Here are the papers I wrote in 2024. 
 - [2024/2/2] **Vaccine: Perturbation-aware alignment for large language model aginst harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.01109)] [[code](https://github.com/git-disl/Vaccine)] 
 - [2024/5/28] **Lazy safety alignment for large language models against harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.18641)] [[code](https://github.com/git-disl/Lisa)]
