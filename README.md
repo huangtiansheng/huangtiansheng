@@ -6,7 +6,9 @@
 ## Selected Publications
 I try to push myself to publish high quality papers in the periodicity of every three months. 
 
-Here is the first paper I wrote in 2025 (maybe not only in 2025...)
+Here are the papers I wrote in 2025.
+
+- [2025/1/30]  **Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable** *arXiv* [[paper](https://arxiv.org/abs/2503.00555)] [[code](https://github.com/git-disl/Safety-Tax)] 
 - [2025/1/30]  **Virus: Harmful Fine-tuning Attack for Large Language Models bypassing Guardrail Moderation** *arXiv* [[paper](https://arxiv.org/abs/2501.17433)] [[code](https://github.com/git-disl/Virus)] 
 
 Here are the papers I wrote in 2024. 
